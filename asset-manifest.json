@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/silhouette462/my-notes.github.io.git/static/css/main.068af85c.css",
+    "main.js": "/silhouette462/my-notes.github.io.git/static/js/main.a1b1a52b.js",
+    "index.html": "/silhouette462/my-notes.github.io.git/index.html",
+    "main.068af85c.css.map": "/silhouette462/my-notes.github.io.git/static/css/main.068af85c.css.map",
+    "main.a1b1a52b.js.map": "/silhouette462/my-notes.github.io.git/static/js/main.a1b1a52b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.068af85c.css",
+    "static/js/main.a1b1a52b.js"
+  ]
+}
